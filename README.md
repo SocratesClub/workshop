@@ -1,4 +1,4 @@
-# The 2017 Workshop of Computational Communication Research
+### The 2017 Workshop of Computational Communication Research
 
 
 |    | **计算传播学工作坊**  |  |
