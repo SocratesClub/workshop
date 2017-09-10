@@ -1,3 +1,4 @@
+# 2017年计算传播学工作坊
 ### The 2017 Workshop of Computational Communication Research
 
 
@@ -8,3 +9,8 @@
 |9月22日14:00-17:00|**网络信息传播基础** <br>张子柯、王成军| **文本分析的基本步骤与方法**<br>张伦|
 |9月23日9:00-12:00|**网络信息传播实证研究** <br>许小可|**主题模型**<br>王成军|
 |9月23日14:00-17:00|**网络信息传播模型**<br>胡海波、阮中远|**情感分析**<br>汪臻真|
+
+
+# Slides
+
+http://nbviewer.jupyter.org/github/computational-class/workshop/tree/master/
